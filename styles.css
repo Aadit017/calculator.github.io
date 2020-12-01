@@ -11,6 +11,7 @@ body{
     font-size: smaller;
 }
 #main{ 
+    text-align:center;
     margin-top: 60px;
     padding: 7% 3%;
     background-color: #0B0614;
@@ -25,8 +26,8 @@ body{
     font-family:  'Major Mono Display', monospace;
 }
 .btnNum{ 
-    width:75px;
-    height:75px;
+    width:65px;
+    height:65px;
     display:inline-block;
     background-color:#0B0614;
     color:white;
@@ -47,10 +48,9 @@ body{
     padding-top:2%;
 }
 .container {
-    margin-left:0px;
     display: block;
-    width:340px;
-    height: 380px;
+    width:300px;
+    height: 340px;
 }
 }
 @media (min-width:901px){ 
